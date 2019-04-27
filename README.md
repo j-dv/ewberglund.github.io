@@ -1,2 +1,1 @@
-# congandmargi_website
-Website for congandmargi.com
+Website for deveraberglundwedding.info
