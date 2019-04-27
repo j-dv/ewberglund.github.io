@@ -4,7 +4,7 @@
   src: url("autumn-in-november.ttf") format("truetype");
 }
 .bg-pink {
-  background-color: #48c9b0;
+  background-color: #97d8c8;
 }
 
 .bg-pink-flower {
@@ -20,7 +20,7 @@
 }
 
 .bg-green {
-  background-color: #48c9b0;
+  background-color: #97d8c8;
 }
 
 .text-align-center {
@@ -35,14 +35,14 @@
   text-align: center;
 }
 .cong-and-margi #mainNav {
-  background-color: #48c9b0;
+  background-color: #a0c0ef;
   box-shadow: 0 0 15px #333;
 }
 .cong-and-margi #mainNav .navbar-nav {
   margin: 0 auto;
 }
 .cong-and-margi #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #48c9b0;
+  color: #77a3e5;
   font-weight: 400;
 }
 .cong-and-margi .header .header-text {
@@ -168,7 +168,7 @@
 .cong-and-margi #faq .q-and-a .question {
   font-weight: 800;
   font-size: 18px;
-  color: #48c9b0;
+  color: #77a3e5;
 }
 @media (max-width: 768px) {
   .cong-and-margi .header .header-text h1 {
@@ -195,9 +195,9 @@
     padding: 8px 16px;
   }
   .cong-and-margi #mainNav .navbar-nav .nav-item .nav-link.active {
-    color: #48c9b0;
+    color: #77a3e5;
     font-weight: 400;
-    border-bottom: 6px solid #48c9b0;
+    border-bottom: 6px solid #77a3e5;
   }
   .cong-and-margi #details .nestldown-img {
     width: 50vw;
